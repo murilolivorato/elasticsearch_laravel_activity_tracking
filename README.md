@@ -7,8 +7,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@murilolivorato)
-[![GitHub Stars](https://img.shields.io/github/stars/murilolivorato/laravel_sso?style=social)](https://github.com/murilolivorato/laravel_sso/stargazers)
-
+[![GitHub Stars](https://img.shields.io/github/stars/murilolivorato/elasticsearch_laravel_activity_tracking?style=social)](https://github.com/murilolivorato/elasticsearch_laravel_activity_tracking/stargazers)
 </div>
 
 A robust, scalable activity logging system that automatically tracks all model changes in Laravel applications using Elasticsearch. This implementation provides lightning-fast search capabilities, real-time analytics, and comprehensive audit trails for your application's data changes.
@@ -163,9 +162,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 <div align="center">
   <h3>⭐ Star This Repository ⭐</h3>
   <p>Your support helps us improve and maintain this project!</p>
-  <a href="https://github.com/murilolivorato/laravel_sso/stargazers">
-    <img src="https://img.shields.io/github/stars/murilolivorato/laravel_sso?style=social" alt="GitHub Stars">
+  <a href="https://github.com/murilolivorato/elasticsearch_laravel_activity_tracking/stargazers">
+    <img src="https://img.shields.io/github/stars/murilolivorato/elasticsearch_laravel_activity_tracking?style=social" alt="GitHub Stars">
   </a>
 </div>
-
 
