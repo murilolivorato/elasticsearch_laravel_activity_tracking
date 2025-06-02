@@ -20,7 +20,7 @@ A robust, scalable activity logging system that automatically tracks all model c
 # 🏷️ This file is part of a series of articles on Medium
 
 
-> - [📖 **How to Integrate Elasticsearch with Laravel: A Step-by-Step Guide**](https://medium.com/@murilolivorato/how-to-integrate-elasticsearch-with-laravel-a-step-by-step-guide-e98f0cec7d9a)
+> - [📖 **How to Integrate Elasticsearch with Laravel: A Step-by-Step Guide**](https://medium.com/@murilolivorato/advanced-model-activity-tracking-in-laravel-with-elasticsearch-a19625c05309)
 
 ## 🌟 Features
 
