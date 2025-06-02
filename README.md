@@ -17,6 +17,11 @@ A robust, scalable activity logging system that automatically tracks all model c
 <img src="https://cdn-images-1.medium.com/max/800/1*VlnjMSHei3KpoEKbrfnTkg.png" alt="Error Logging Dashboard" width="800"/>
 </p>
 
+# 🏷️ This file is part of a series of articles on Medium
+
+
+> - [📖 **How to Integrate Elasticsearch with Laravel: A Step-by-Step Guide**](https://medium.com/@murilolivorato/how-to-integrate-elasticsearch-with-laravel-a-step-by-step-guide-e98f0cec7d9a)
+
 ## 🌟 Features
 
 - **Automatic Model Change Tracking**
@@ -105,23 +110,6 @@ php artisan migrate
 php artisan elasticsearch:setup
 ```
 
-## 📝 Usage
-
-### Tracking Model Activities
-
-To enable activity tracking for a model, implement the `Trackable` trait and register its observer:
-
-```php
-use App\Traits\Trackable;
-
-class YourModel extends Model
-{
-    use Trackable;
-    
-    // Your model implementation
-}
-```
-
 
 ## 🔍 Advanced Queries
 
@@ -159,9 +147,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📚 Related Articles
-
-- [Advanced Model Activity Tracking in Laravel with Elasticsearch](https://medium.com/@your-username/advanced-model-activity-tracking-in-laravel-with-elasticsearch)
 
 ## 🙏 Acknowledgments
 
